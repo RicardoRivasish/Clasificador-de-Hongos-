@@ -1,2 +1,2 @@
 # Clasificador-de-Hongos-
-En este proyecto hicimos una red neuronal que planea decirte si un hongo es comestible o no al tomarle foto.
+Este proyecto pretende clasificar imágenes de distintas clases de hongos por medio de una red neuronal.
