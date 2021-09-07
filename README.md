@@ -1,2 +1,2 @@
-# Clasificador-de-Hongos-
-Este proyecto pretende clasificar imágenes de distintas clases de hongos por medio de una red neuronal. (Este proyecto sigue en proceso de completarse)
+# Mushroom Classificator
+This project aims to classify images of different classes of fungi by means of a neural network. The mushrooms that will be classified are Mushrooms that can be found in forest near Mexico City called El Cuarto Dinámo. (This project is still in the process of being completed)
